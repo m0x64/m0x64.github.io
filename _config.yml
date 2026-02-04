@@ -2,3 +2,9 @@ remote_theme: "jekyll/minima@c6e74bb"
 
 minima:
   skin: dark
+
+  nav_pages:
+    - about.md
+  
+  hide_site_feed_link: false
+
